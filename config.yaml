@@ -1,0 +1,9 @@
+# MYSQL Connection Parameters
+USERNAME: admin_kishan
+PASSWORD: admin123
+HOST: hacksify.in
+PORT: 3306
+DBNAME: admin_incubyte
+
+# Input Directory Path
+INPUTDIR: ./Datasets
