@@ -4,11 +4,11 @@ Solution for Incubyte Data Engineering Test is builded as a python package to re
 ## Assumptions / Considerations
 - Datasets are available in Datasets Directory in csv and txt format.
 - Running with python 3.x
-- Following python packages are installed:
--- PyYAML == 5.3.1
--- pandas == 1.1.3
--- SQLAlchemy == 1.3.20
--- mysqlclient == 2.0.1
+- Following python packages are installed: \
+-- PyYAML == 5.3.1 \
+-- pandas == 1.1.3 \
+-- SQLAlchemy == 1.3.20 \
+-- mysqlclient == 2.0.1 
 
 ## Configuration File
 - Update SQL Connection parameters and input directory path in config.yaml
